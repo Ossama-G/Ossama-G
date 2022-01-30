@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Oussama
+### Hi there 👋, my name is Oussama Gammoudi
 
 Skills: C / Linux / JS / HTML / CSS / PHP/ DB /
 
