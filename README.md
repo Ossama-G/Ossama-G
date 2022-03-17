@@ -1,11 +1,12 @@
-### Hi there 👋, my name is Oussama Gammoudi
 
+<h1 align="center">Hi there 👋, I'm Oussama Gammoudi</h1>
 
 - 🔭 I’m currently working on ProjetCpp 
 
 - 🌱 I’m currently learning C++ 
 
-- 📫 How to reach me: oussama.gammoudi@esprit.tn 
+- 📫 How to reach me: 
+      oussama.gammoudi@esprit.tn 
 
 
 ### Talk with me, I am kinda awesome:
