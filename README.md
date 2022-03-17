@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: oussama.gammoudi@esprit.tn 
 
+Talk with me, I am kinda awesome:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ossama-G)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ossama.wardii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ous_gammoudi//)  
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ossama.wardii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ous_gammoudi//)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ossama-G&show_icons=true)  
 
