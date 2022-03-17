@@ -2,12 +2,15 @@
 
 
 - 🔭 I’m currently working on ProjetCpp 
+
 - 🌱 I’m currently learning C++ 
+
 - 📫 How to reach me: oussama.gammoudi@esprit.tn 
+
 
 ### Talk with me, I am kinda awesome:
 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ossama.wardii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ous_gammoudi//)  
+<a href="https://www.facebook.com/ossama.wardii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ossama" height="30" width="40" /></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ossama-G&show_icons=true)  
 
