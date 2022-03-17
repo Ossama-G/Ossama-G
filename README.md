@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Oussama Gammoudi
 
-Skills: C / Linux / JS / HTML / CSS / PHP/ DB /
 
 - 🔭 I’m currently working on ProjetCpp 
 - 🌱 I’m currently learning C++ 
