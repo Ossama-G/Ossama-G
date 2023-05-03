@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there 👋, I'm Oussama Gammoudi</h1>
 
-- 🔭 I’m currently working on ProjetCpp 
+- 🔭 I’m currently working on Symfony Projet
 
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning Symfony 5.5
 
 - 📫 How to reach me: 
       oussama.gammoudi@esprit.tn 
