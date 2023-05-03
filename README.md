@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Oussama Gammoudi</h1>
 
-- 🔭 I’m currently working on Symfony Projet
+- 🔭 I’m currently working on Symfony Project
 
 - 🌱 I’m currently learning Symfony 5.5
 
